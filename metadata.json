@@ -1,0 +1,7 @@
+{
+  "name": "Specsavers Opticians Pro",
+  "description": "A premium, high-conversion optician web application featuring AI-powered frame styling, appointment booking, and a luxury product catalog.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
